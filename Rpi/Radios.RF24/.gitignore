@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Radios.RF24/bin/Debug
+/Radios.RF24/obj/Debug
+/TestApp/obj/x86/Debug
+/Radios.RF24/bin
+/Radios.RF24/obj
+/TestApp/bin
+/TestApp/obj
+*.user
